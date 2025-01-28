@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">A passionate full-stack developer from Iran</h3>
 
-<img fetchpriority="high" decoding="async" width="953" height="456" src="https://cdn.axehonari.ir/images/5fc91e90-5dff-11ee-b750-b564b274ae96.jpg" class="attachment-full size-full wp-image-1706" alt="">
-
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://magerta.ir/wp-content/uploads/2019/05/programmer-job.jpg" width="872" height="490">
 <p align="left"> <a href="https://github.com/hassan2282"><img src="https://github-profile-trophy.vercel.app/?username=hassan2282" alt="hassan2282" /></a> </p>
 
 - 🌱 I’m currently learning **React**
