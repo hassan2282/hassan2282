@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">A passionate full-stack developer from Iran</h3>
 
-<img src="https://lottie.host/embed/9ab25062-9878-4156-b00c-1fd22338927f/Q0Rl9Om5Ts.lottie" alt="hassan2282" />
-
+<img fetchpriority="high" decoding="async" width="953" height="456" src="https://vira-team.com/wp-content/uploads/2021/08/web-design.gif" class="attachment-full size-full wp-image-1706" alt="">
 
 <p align="left"> <a href="https://github.com/hassan2282"><img src="https://github-profile-trophy.vercel.app/?username=hassan2282" alt="hassan2282" /></a> </p>
 
