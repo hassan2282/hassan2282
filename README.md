@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">A passionate full-stack developer from Iran</h3>
 
-<a>https://lottie.host/embed/9ab25062-9878-4156-b00c-1fd22338927f/Q0Rl9Om5Ts.lottie</a>
+<img src="https://lottie.host/embed/9ab25062-9878-4156-b00c-1fd22338927f/Q0Rl9Om5Ts.lottie" alt="hassan2282" />
+
 
 <p align="left"> <a href="https://github.com/hassan2282"><img src="https://github-profile-trophy.vercel.app/?username=hassan2282" alt="hassan2282" /></a> </p>
 
