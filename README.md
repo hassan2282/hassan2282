@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hassan</h1>
+
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi 👋+I'm+Hassan)](https://git.io/typing-svg)</h1>
 <h3 align="center">A passionate full-stack developer from Iran</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassan2282" alt="hassan2282" /></a> </p>
