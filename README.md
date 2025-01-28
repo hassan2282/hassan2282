@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">A passionate full-stack developer from Iran</h3>
 
-<iframe src="https://lottie.host/embed/35d9a3f5-fe10-48ed-b88e-fff5c97c5b46/3uo5fVz51f.lottie"></iframe>
-
+<script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
+<dotlottie-player src="https://lottie.host/35d9a3f5-fe10-48ed-b88e-fff5c97c5b46/3uo5fVz51f.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
 <p align="left"> <a href="https://github.com/hassan2282"><img src="https://github-profile-trophy.vercel.app/?username=hassan2282" alt="hassan2282" /></a> </p>
 
 - 🌱 I’m currently learning **React**
