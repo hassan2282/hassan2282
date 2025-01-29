@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">A passionate full-stack developer from Iran</h3>
 
+
+<div class="plyr__video-wrapper"><video autoplay="autoplay" playsinline="playsinline" muted="muted" poster="https://static.vecteezy.com/system/resources/thumbnails/035/319/407/large/animated-chocolate-peanut-ice-cream-with-melted-caramel-flowing-on-in-orange-and-green-screen-background-free-video.jpg" class="plyr__video" data-video-player-target="player" data-poster="https://static.vecteezy.com/system/resources/thumbnails/035/319/407/large/animated-chocolate-peanut-ice-cream-with-melted-caramel-flowing-on-in-orange-and-green-screen-background-free-video.jpg"><source src="https://static.vecteezy.com/system/resources/previews/035/319/407/mp4/animated-chocolate-peanut-ice-cream-with-melted-caramel-flowing-on-in-orange-and-green-screen-background-free-video.mp4" type="video/mp4"><source src="https://static.vecteezy.com/system/resources/previews/035/319/407/animated-chocolate-peanut-ice-cream-with-melted-caramel-flowing-on-in-orange-and-green-screen-background-free-video.webm" type="video/webm"></video><div class="plyr__poster" style="background-image: url(&quot;https://static.vecteezy.com/system/resources/thumbnails/035/319/407/large/animated-chocolate-peanut-ice-cream-with-melted-caramel-flowing-on-in-orange-and-green-screen-background-free-video.jpg&quot;);"></div></div>
+
+
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://magerta.ir/wp-content/uploads/2019/05/programmer-job.jpg" width="872" height="490">
 <p align="left"> <a href="https://github.com/hassan2282"><img src="https://github-profile-trophy.vercel.app/?username=hassan2282" alt="hassan2282" /></a> </p>
 
