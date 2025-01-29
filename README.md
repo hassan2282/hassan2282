@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">A passionate full-stack developer from Iran</h3>
 
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://magerta.ir/wp-content/uploads/2019/05/programmer-job.jpg](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQxNWNhdnMzdjB6dmMwc2w0MGd1eHUxZ3prcWtuZmw0dTh0NWtnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6vXTpomeZEyxufGU/giphy.gif)" width="872" height="490">
+<img class="giphy-gif-img giphy-img-loaded" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQxNWNhdnMzdjB6dmMwc2w0MGd1eHUxZ3prcWtuZmw0dTh0NWtnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6vXTpomeZEyxufGU/giphy.gif" width="100%" height="100%" alt="giphyupload wallpaper GIF" style="background: rgba(0, 0, 0, 0);">
 <p align="left"> <a href="https://github.com/hassan2282"><img src="https://github-profile-trophy.vercel.app/?username=hassan2282" alt="hassan2282" /></a> </p>
 
 - 🌱 I’m currently learning **React**
