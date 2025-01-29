@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">A passionate full-stack developer from Iran</h3>
 
-<img class="giphy-gif-img giphy-img-loaded" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnl0czVqMHVuejZiZWVzbTkzN2N3Y2Jxd2FpcHVjbWJvc3Rqamg1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3j1cQ31u1AQKqG1tU6/giphy.gif" width="100%" height="100%" alt="Inside Out 3D GIF by tdhooper" style="background: rgba(0, 0, 0, 0);">
+<img class="giphy-gif-img giphy-img-loaded" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnl0czVqMHVuejZiZWVzbTkzN2N3Y2Jxd2FpcHVjbWJvc3Rqamg1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3j1cQ31u1AQKqG1tU6/giphy.gif" width="100%" height="50%" alt="Inside Out 3D GIF by tdhooper" style="background: rgba(0, 0, 0, 0);">
 
 <p align="left"> <a href="https://github.com/hassan2282"><img src="https://github-profile-trophy.vercel.app/?username=hassan2282" alt="hassan2282" /></a> </p>
 
