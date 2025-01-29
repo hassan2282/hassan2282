@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">A passionate full-stack developer from Iran</h3>
 
-<img alt="گیف باران" height="700" src="https://i1.delgarm.com/i/828/011225/rain-gif(7).gif" width="500" loading="lazy" class="lazy">
+<img src="https://i1.delgarm.com/i/828/011225/rain-gif(7).gif" >
 
 <p align="left"> <a href="https://github.com/hassan2282"><img src="https://github-profile-trophy.vercel.app/?username=hassan2282" alt="hassan2282" /></a> </p>
 
