@@ -6,7 +6,7 @@
             margin-bottom: 20px;">
 
             
-<div style="position: relative; width: 100%; height: 100%; min-height: 100vh; background: linear-gradient(to bottom right, #e0eafc, #cfdef3); padding: 20px; color: black;">
+<div style="position: absolute; width: 100%; height: 100%; min-height: 100vh; background: linear-gradient(to bottom right, #e0eafc, #cfdef3); padding: 20px; color: black;">
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">A passionate full-stack developer from Iran</h3>
 
