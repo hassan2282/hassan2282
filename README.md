@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hassan</h1>
-<h3 align="center">A passionate full-stack developer from Iran</h3>
+<h3 align="left">A passionate full-stack developer from Iran</h3>
 
 <img class="giphy-gif-img giphy-img-loaded" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3o1dzdjcTZpN241MDJucHZyaThjbGgzeW5kOHVvY3h2ODF3bmJmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vu7FU5T4RJPo1esgna/giphy.gif" alt="Digital Art Love GIF by systaime" style="background: rgba(0, 0, 0, 0);">
 
