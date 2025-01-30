@@ -1,19 +1,11 @@
-<div style="background: linear-gradient(to bottom right, #e0eafc, #cfdef3); /* Adjust colors */
-            padding: 20px; /* Add some padding */
-            border-radius: 10px; /* Rounded corners */
-            box-shadow: 5px 5px 10px rgba(0,0,0,0.2); /* Add a subtle shadow */
-            backdrop-filter: blur(5px); /* Apply the blur */
-            margin-bottom: 20px;">
-
             
-<div style="position: absolute; width: 100%; height: 100%; min-height: 100vh; background: linear-gradient(to bottom right, #e0eafc, #cfdef3); padding: 20px; color: black;">
+<div style="position: relative; width: 100%; height: 100%; min-height: 100vh; background: linear-gradient(to bottom right, #e0eafc, #cfdef3); padding: 20px; color: black;">
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">A passionate full-stack developer from Iran</h3>
 
 <img src="https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif" alt="404 not found is displayed in a glitch style on a black background" loading="lazy">
 
 <p align="center" style="width:85%"> <a href="https://github.com/hassan2282"><img src="https://github-profile-trophy.vercel.app/?username=hassan2282" alt="hassan2282" /></a> </p>
-<p align="center" style="flex:flex-row; justify-contenct:center; items:center; width:85%"> <a href="https://github.com/hassan2282"><img src="https://github-profile-trophy.vercel.app/?username=hassan2282" alt="hassan2282" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
@@ -40,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan2282&show_icons=true&locale=en" alt="hassan2282" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan2282&" alt="hassan2282" /></p>
+</div>
