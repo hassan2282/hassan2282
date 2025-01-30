@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">A passionate full-stack developer from Iran</h3>
 
-<video src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/404-error-page-animation-download-in-lottie-json-gif-static-svg-file-formats--loading-not-found-the-ultimate-pack-design-development-animations-3299952.mp4" autoplay="autoplay" muted="muted" loop="loop" playsinline="" type="video/mp4" style="" __idm_id__="344130"></video>
 
-<p align="left"> <a href="https://github.com/hassan2282"><img src="https://github-profile-trophy.vercel.app/?username=hassan2282" alt="hassan2282" /></a> </p>
+<p align="center"> <a href="https://github.com/hassan2282"><img src="https://github-profile-trophy.vercel.app/?username=hassan2282" alt="hassan2282" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
