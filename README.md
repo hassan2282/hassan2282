@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">A passionate full-stack developer from Iran</h3>
 
-<img src="https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif" align="center" style="width:50%; rounded:10px" alt="404 not found is displayed in a glitch style on a black background" loading="lazy">
+<img src="https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif" align="right" style="width:50%;" alt="404 not found is displayed in a glitch style on a black background" loading="lazy">
 
 <p align="center" style="width:85%"> <a href="https://github.com/hassan2282"><img src="https://github-profile-trophy.vercel.app/?username=hassan2282" alt="hassan2282" /></a> </p>
 
