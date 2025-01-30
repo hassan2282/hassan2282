@@ -4,7 +4,7 @@
 
 <img class="giphy-gif-img giphy-img-loaded" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3o1dzdjcTZpN241MDJucHZyaThjbGgzeW5kOHVvY3h2ODF3bmJmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vu7FU5T4RJPo1esgna/giphy.gif" alt="Digital Art Love GIF by systaime" style="background: rgba(0, 0, 0, 0);">
 
-<p align="center" style="width:85%"> <a href="https://github.com/hassan2282"><img src="https://github-profile-trophy.vercel.app/?username=hassan2282" alt="hassan2282" /></a> </p>
+<p align="left" style="width:85%"> <a href="https://github.com/hassan2282"><img src="https://github-profile-trophy.vercel.app/?username=hassan2282" alt="hassan2282" /></a> </p>
 
 <img src="https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif" align="left" alt="404 not found is displayed in a glitch style on a black background" loading="lazy">
 
