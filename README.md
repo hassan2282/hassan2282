@@ -4,7 +4,7 @@
 
 <img src="https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif" alt="404 not found is displayed in a glitch style on a black background" loading="lazy">
 
-<p style="position: relative; width: 100px; height: 100px; background: linear-gradient(to bottom right, #e0eafc, #cfdef3); padding: 20px;">asdasd</p>
+<p style="background-color:red; padding:10px">asdasd</p>
 
 
 <p align="center" style="width:85%"> <a href="https://github.com/hassan2282"><img src="https://github-profile-trophy.vercel.app/?username=hassan2282" alt="hassan2282" /></a> </p>
