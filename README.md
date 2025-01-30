@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hassan</h1>
-<h3 align="left">A passionate full-stack developer from Iran</h3>
+<h3 align="center">A passionate full-stack developer from Iran</h3>
 
 <img class="giphy-gif-img giphy-img-loaded" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVwaGJqem9xd2NqeHpzbDdjOGZ6ZGduemVjZHM4YTNibXhiYm9tbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dYtHPYJxZblCcWPwcQ/giphy.gif" width="100%" height="100%" alt="Rainbow Pastel GIF" style="background: rgba(0, 0, 0, 0);">
 
