@@ -1,3 +1,12 @@
+<div style="background: linear-gradient(to bottom right, #e0eafc, #cfdef3); /* Adjust colors */
+            padding: 20px; /* Add some padding */
+            border-radius: 10px; /* Rounded corners */
+            box-shadow: 5px 5px 10px rgba(0,0,0,0.2); /* Add a subtle shadow */
+            backdrop-filter: blur(5px); /* Apply the blur */
+            margin-bottom: 20px;">
+
+            
+<div style="position: relative; width: 100%; height: 100%; min-height: 100vh; background: linear-gradient(to bottom right, #e0eafc, #cfdef3); padding: 20px; color: black;">
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">A passionate full-stack developer from Iran</h3>
 
