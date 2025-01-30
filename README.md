@@ -1,5 +1,5 @@
             
-<div style="position: relative; width: 100%; height: 100%; min-height: 100vh; background: linear-gradient(to bottom right, #e0eafc, #cfdef3); padding: 20px; color: black;">
+<p style="position: relative; width: 100%; height: 100%; min-height: 100vh; background: linear-gradient(to bottom right, #e0eafc, #cfdef3); padding: 20px; color: black;">
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">A passionate full-stack developer from Iran</h3>
 
@@ -32,4 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan2282&show_icons=true&locale=en" alt="hassan2282" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan2282&" alt="hassan2282" /></p>
-</div>
+</p>
