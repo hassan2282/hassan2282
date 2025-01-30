@@ -32,7 +32,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan2282&show_icons=true&locale=en&layout=compact" alt="hassan2282" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan2282&" alt="hassan2282" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan2282&" alt="hassan2282" /></p> -->
 
 
 <img class="giphy-gif-img giphy-img-loaded" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHU4ZmljbWN1Z3M1cGJ3ODQ4MDJrMWpsZXN3MnV6OWEzajRpcHhxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Js7cqIkpxFy0bILFFA/giphy.gif" style="background:rgba(0,0,0,0)" alt="Pointing Down Outer Space GIF by NASA">
