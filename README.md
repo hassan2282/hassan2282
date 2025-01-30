@@ -4,7 +4,12 @@
 
 <img class="giphy-gif-img giphy-img-loaded" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVwaGJqem9xd2NqeHpzbDdjOGZ6ZGduemVjZHM4YTNibXhiYm9tbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dYtHPYJxZblCcWPwcQ/giphy.gif" width="100%" height="100%" alt="Rainbow Pastel GIF" style="background: rgba(0, 0, 0, 0);">
 
-<p align="left" style="width:85%"> <a href="https://github.com/hassan2282"><img src="https://github-profile-trophy.vercel.app/?username=hassan2282" alt="hassan2282" /></a> </p>
+<p align="left" style="width:85%; display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://github.com/hassan2282">
+    <img src="https://github-profile-trophy.vercel.app/?username=hassan2282" alt="hassan2282" />
+  </a>
+  <!-- Add more elements here if needed -->
+</p>
 
 <img src="https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif" align="left" alt="404 not found is displayed in a glitch style on a black background" loading="lazy">
 
