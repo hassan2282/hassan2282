@@ -26,19 +26,23 @@
                              /|___|\  /|___|\
                             <_______><_______>
 
+╔═══════════════════════════════════════════════════════════╗
+║                  💻 TECHNOLOGY ARSENAL 💻                 ║
+╚═══════════════════════════════════════════════════════════╝
+[💻 WEB FRAMEWORKS]
+
+  🔰 Laravel     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  [ 95% MASTERY ]
+  
+  🔰 React.js    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   [ 90% PRECISION ]
+  
+  🔰 Tailwind    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓    [ 98% EXPERTISE ]
+  
+  🔰 TypeScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓      [ 94% COMMAND ]
 
 <p align="left" style="width:85%; display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://github.com/hassan2282">
     <img src="https://github-profile-trophy.vercel.app/?username=hassan2282" alt="hassan2282" />
   </a>
-  ╔═══════════════════════════════════════════════════════════╗
-║                  💻 TECHNOLOGY ARSENAL 💻                 ║
-╚═══════════════════════════════════════════════════════════╝
-[💻 WEB FRAMEWORKS]
-  🔰 Laravel     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  [ 98% MASTERY ]
-  🔰 Vue.js      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   [ 97% PRECISION ]
-  🔰 Nuxt.js     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓     [ 95% EXPERTISE ]
-  🔰 TypeScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓      [ 94% COMMAND ]
 </p>
 
 <img src="https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif" align="left" alt="404 not found is displayed in a glitch style on a black background" loading="lazy">
