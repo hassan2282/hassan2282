@@ -27,9 +27,8 @@
                             <_______><_______>
 
 ╔═══════════════════════════════════════════════════════════╗
-║                  💻 TECHNOLOGY ARSENAL 💻                 ║
+║                  💻 TECHNOLOGY ARSENAL 💻                ║
 ╚═══════════════════════════════════════════════════════════╝
-[💻 WEB FRAMEWORKS]
 
   🔰 Laravel     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  [ 95% MASTERY ]
   
@@ -37,13 +36,7 @@
   
   🔰 Tailwind    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓    [ 98% EXPERTISE ]
   
-  🔰 TypeScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓      [ 94% COMMAND ]
 
-<p align="left" style="width:85%; display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/hassan2282">
-    <img src="https://github-profile-trophy.vercel.app/?username=hassan2282" alt="hassan2282" />
-  </a>
-</p>
 
 <img src="https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif" align="left" alt="404 not found is displayed in a glitch style on a black background" loading="lazy">
 
