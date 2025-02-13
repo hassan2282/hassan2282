@@ -43,7 +43,7 @@
 
 <img src="https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif" align="left" alt="404 not found is displayed in a glitch style on a black background" loading="lazy">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React + R3F**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hassan2282](https://github.com/hassan2282)
 
