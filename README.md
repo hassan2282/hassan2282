@@ -10,7 +10,6 @@ Hi I'm Hassan Taghavey From Iran
   🔰 Tailwind    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓    [ 98% EXPERTISE ]
   
 
-
 <img src="https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif" align="left" alt="404 not found is displayed in a glitch style on a black background" loading="lazy">
 
 - 🌱 I’m currently using **React + Laravel**
