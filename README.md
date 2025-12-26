@@ -18,7 +18,6 @@
 <div align="center">
 
 > 🧠 **"Code is not just syntax — it's a weapon."**  
-> ⚡ *Hassan Taghavey*
 
 </div>
 
@@ -34,12 +33,6 @@
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00FFEA?style=for-the-badge&logo=power&logoColor=black"/>
 <img src="https://img.shields.io/badge/MODE-CYBERPUNK-FF00FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BUILDING-FUTURE-7CFF00?style=for-the-badge"/>
-
-</div>
-
-<div align="center">
-
-![snake animation](https://raw.githubusercontent.com/hassan2282/hassan2282/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
