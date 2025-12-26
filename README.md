@@ -72,9 +72,6 @@
 </div>
 
 
-
-
-
 <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" height="6"/>
 
 <img src="https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif" width="280"/>
