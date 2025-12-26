@@ -23,29 +23,32 @@
 
 <h3 align="center">⚡ Full-Stack Developer | Iran / Tehran ⚡</h3>
 
+## 🧠 Programming Languages — Neon Core
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/PHP-0D0D0D?style=for-the-badge&logo=php&logoColor=00FFE0&labelColor=000000"/>
+<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:00FFE0,100:0077FF&text=PHP&fontAlign=50&fontSize=36&fontColor=000000"/>
 
-<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000"/>
+<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:F7DF1E,100:FFB300&text=JavaScript&fontAlign=50&fontSize=32&fontColor=000000"/>
 
-<img src="https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=FF6B00&labelColor=000000"/>
+<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:FF6B00,100:FF0033&text=HTML5&fontAlign=50&fontSize=36&fontColor=000000"/>
 
-<img src="https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=00BFFF&labelColor=000000"/>
+<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:00BFFF,100:0047FF&text=CSS3&fontAlign=50&fontSize=36&fontColor=000000"/>
 
-<img src="https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=00FFE0&labelColor=000000"/>
+<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:00FFE0,100:00AEEF&text=React.js&fontAlign=50&fontSize=34&fontColor=000000"/>
 
-<img src="https://img.shields.io/badge/Laravel-0D0D0D?style=for-the-badge&logo=laravel&logoColor=FF0033&labelColor=000000"/>
+<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:FF0033,100:8B0000&text=Laravel&fontAlign=50&fontSize=34&fontColor=000000"/>
 
-<img src="https://img.shields.io/badge/Tailwind-0D0D0D?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8&labelColor=000000"/>
+<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:38BDF8,100:0EA5E9&text=Tailwind%20CSS&fontAlign=50&fontSize=30&fontColor=000000"/>
 
-<img src="https://img.shields.io/badge/Bootstrap-0D0D0D?style=for-the-badge&logo=bootstrap&logoColor=8B5CF6&labelColor=000000"/>
+<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:8B5CF6,100:4C1D95&text=Bootstrap&fontAlign=50&fontSize=32&fontColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=00FFE0&labelColor=000000"/>
+<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:00FFE0,100:00796B&text=MySQL&fontAlign=50&fontSize=34&fontColor=000000"/>
 
-<img src="https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=4DB6FF&labelColor=000000"/>
+<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:4DB6FF,100:0D47A1&text=PostgreSQL&fontAlign=50&fontSize=28&fontColor=FFFFFF"/>
 
 </div>
+
 
 <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" height="6"/>
 
