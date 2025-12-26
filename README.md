@@ -23,19 +23,54 @@
 
 <h3 align="center">⚡ Full-Stack Developer | Iran / Tehran ⚡</h3>
 
-<table align="center">
-<tr>
-<td align="center">
-<img width="160" src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif"/><br/>PHP
-</td>
-<td align="center">
-<img width="160" src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif"/><br/>JavaScript
-</td>
-<td align="center">
-<img width="160" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"/><br/>React
-</td>
-</tr>
-</table>
+<div align="center">
+
+<svg width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Pixel -->
+    <rect id="pixel" width="6" height="6" rx="1" ry="1" />
+  </defs>
+
+  <!-- Background -->
+  <rect x="10" y="10" width="180" height="180" rx="18" fill="#050505" stroke="#00FFE0" stroke-width="2" filter="url(#glow)"/>
+
+  <!-- Pixel Particles -->
+  <g fill="#00FFE0" opacity="0.9">
+    <use href="#pixel" x="40" y="-10">
+      <animate attributeName="y" from="-10" to="200" dur="2.5s" repeatCount="indefinite"/>
+    </use>
+    <use href="#pixel" x="80" y="-30">
+      <animate attributeName="y" from="-30" to="200" dur="3s" repeatCount="indefinite"/>
+    </use>
+    <use href="#pixel" x="120" y="-50">
+      <animate attributeName="y" from="-50" to="200" dur="2.2s" repeatCount="indefinite"/>
+    </use>
+    <use href="#pixel" x="150" y="-20">
+      <animate attributeName="y" from="-20" to="200" dur="2.8s" repeatCount="indefinite"/>
+    </use>
+  </g>
+
+  <!-- Text -->
+  <text x="100" y="115" text-anchor="middle"
+        font-size="26" fill="#00FFE0"
+        font-family="Arial Black"
+        filter="url(#glow)">
+    PHP
+  </text>
+
+</svg>
+
+</div>
+
 
 
 
