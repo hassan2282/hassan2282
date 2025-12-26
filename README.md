@@ -23,51 +23,20 @@
 
 <h3 align="center">⚡ Full-Stack Developer | Iran / Tehran ⚡</h3>
 
-## 🧩 Programming Languages — Pixel Neon Panels
+<table align="center">
+<tr>
+<td align="center">
+<img width="160" src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif"/><br/>PHP
+</td>
+<td align="center">
+<img width="160" src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif"/><br/>JavaScript
+</td>
+<td align="center">
+<img width="160" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"/><br/>React
+</td>
+</tr>
+</table>
 
-<div align="center">
-
-<!-- PHP -->
-<img width="180" src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif"/>
-<br/>
-<b>PHP</b>
-
-<br/><br/>
-
-<!-- JavaScript -->
-<img width="180" src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif"/>
-<br/>
-<b>JavaScript</b>
-
-<br/><br/>
-
-<!-- React -->
-<img width="180" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"/>
-<br/>
-<b>React.js</b>
-
-<br/><br/>
-
-<!-- Laravel -->
-<img width="180" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
-<br/>
-<b>Laravel</b>
-
-<br/><br/>
-
-<!-- HTML -->
-<img width="180" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-<br/>
-<b>HTML5</b>
-
-<br/><br/>
-
-<!-- CSS -->
-<img width="180" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif"/>
-<br/>
-<b>CSS3</b>
-
-</div>
 
 
 
