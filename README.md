@@ -24,72 +24,33 @@
 <h3 align="center">⚡ Full-Stack Developer | Iran / Tehran ⚡</h3>
 
 
+
+
+## 🧠 Programming Languages — Neon Core
+
 <div align="center">
 
-<svg
-  xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
-  width="200"
-  height="200"
-  viewBox="0 0 200 200">
+<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:00FFE0,100:0077FF&text=PHP&fontAlign=50&fontSize=36&fontColor=000000"/>
 
-  <defs>
-    <!-- Glow Effect -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:F7DF1E,100:FFB300&text=JavaScript&fontAlign=50&fontSize=32&fontColor=000000"/>
 
-    <!-- Pixel -->
-    <rect id="pixel" width="6" height="6" rx="1" ry="1"/>
-  </defs>
+<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:FF6B00,100:FF0033&text=HTML5&fontAlign=50&fontSize=36&fontColor=000000"/>
 
-  <!-- Button Background -->
-  <rect
-    x="10" y="10"
-    width="180" height="180"
-    rx="20"
-    fill="#050505"
-    stroke="#00FFE0"
-    stroke-width="2"
-    filter="url(#glow)"/>
+<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:00BFFF,100:0047FF&text=CSS3&fontAlign=50&fontSize=36&fontColor=000000"/>
 
-  <!-- Pixel Particles -->
-  <g fill="#00FFE0" opacity="0.9">
-    <use xlink:href="#pixel" x="40" y="-10">
-      <animate attributeName="y" from="-10" to="210" dur="2.6s" repeatCount="indefinite"/>
-    </use>
-    <use xlink:href="#pixel" x="80" y="-40">
-      <animate attributeName="y" from="-40" to="210" dur="3.1s" repeatCount="indefinite"/>
-    </use>
-    <use xlink:href="#pixel" x="120" y="-70">
-      <animate attributeName="y" from="-70" to="210" dur="2.3s" repeatCount="indefinite"/>
-    </use>
-    <use xlink:href="#pixel" x="155" y="-25">
-      <animate attributeName="y" from="-25" to="210" dur="2.9s" repeatCount="indefinite"/>
-    </use>
-  </g>
+<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:00FFE0,100:00AEEF&text=React.js&fontAlign=50&fontSize=34&fontColor=000000"/>
 
-  <!-- Label -->
-  <text
-    x="100"
-    y="115"
-    text-anchor="middle"
-    font-size="26"
-    font-weight="bold"
-    fill="#00FFE0"
-    filter="url(#glow)">
-    PHP
-  </text>
+<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:FF0033,100:8B0000&text=Laravel&fontAlign=50&fontSize=34&fontColor=000000"/>
 
-</svg>
+<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:38BDF8,100:0EA5E9&text=Tailwind%20CSS&fontAlign=50&fontSize=30&fontColor=000000"/>
+
+<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:8B5CF6,100:4C1D95&text=Bootstrap&fontAlign=50&fontSize=32&fontColor=FFFFFF"/>
+
+<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:00FFE0,100:00796B&text=MySQL&fontAlign=50&fontSize=34&fontColor=000000"/>
+
+<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:4DB6FF,100:0D47A1&text=PostgreSQL&fontAlign=50&fontSize=28&fontColor=FFFFFF"/>
 
 </div>
-
-
 
 
 
