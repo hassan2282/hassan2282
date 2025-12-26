@@ -22,6 +22,31 @@
 </div>
 
 <h3 align="center">⚡ Full-Stack Developer | Iran / Tehran ⚡</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PHP-0D0D0D?style=for-the-badge&logo=php&logoColor=00FFE0&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=FF6B00&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=00BFFF&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=00FFE0&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/Laravel-0D0D0D?style=for-the-badge&logo=laravel&logoColor=FF0033&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/Tailwind-0D0D0D?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/Bootstrap-0D0D0D?style=for-the-badge&logo=bootstrap&logoColor=8B5CF6&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=00FFE0&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=4DB6FF&labelColor=000000"/>
+
+</div>
+
 <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" height="6"/>
 
 <img src="https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif" width="280"/>
