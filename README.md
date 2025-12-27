@@ -26,29 +26,29 @@
 
 
 
-## 🧠 Programming Languages — Neon Core
+## 🧠 Programming Languages
 
 <div align="center">
 
-<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:00FFE0,100:0077FF&text=PHP&fontAlign=50&fontSize=36&fontColor=000000"/>
+<img width="460" src="https://capsule-render.vercel.app/api?type=rect&height=96&color=0:0A0A0A,100:00FFE0&text=PHP&fontAlign=50&fontSize=34&fontColor=00FFE0"/>
 
-<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:F7DF1E,100:FFB300&text=JavaScript&fontAlign=50&fontSize=32&fontColor=000000"/>
+<img width="460" src="https://capsule-render.vercel.app/api?type=rect&height=96&color=0:0A0A0A,100:F7DF1E&text=JavaScript&fontAlign=50&fontSize=30&fontColor=F7DF1E"/>
 
-<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:FF6B00,100:FF0033&text=HTML5&fontAlign=50&fontSize=36&fontColor=000000"/>
+<img width="460" src="https://capsule-render.vercel.app/api?type=rect&height=96&color=0:0A0A0A,100:FF6B00&text=HTML5&fontAlign=50&fontSize=34&fontColor=FF6B00"/>
 
-<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:00BFFF,100:0047FF&text=CSS3&fontAlign=50&fontSize=36&fontColor=000000"/>
+<img width="460" src="https://capsule-render.vercel.app/api?type=rect&height=96&color=0:0A0A0A,100:00BFFF&text=CSS3&fontAlign=50&fontSize=34&fontColor=00BFFF"/>
 
-<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:00FFE0,100:00AEEF&text=React.js&fontAlign=50&fontSize=34&fontColor=000000"/>
+<img width="460" src="https://capsule-render.vercel.app/api?type=rect&height=96&color=0:0A0A0A,100:00FFE0&text=React.js&fontAlign=50&fontSize=32&fontColor=00FFE0"/>
 
-<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:FF0033,100:8B0000&text=Laravel&fontAlign=50&fontSize=34&fontColor=000000"/>
+<img width="460" src="https://capsule-render.vercel.app/api?type=rect&height=96&color=0:0A0A0A,100:FF0033&text=Laravel&fontAlign=50&fontSize=32&fontColor=FF0033"/>
 
-<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:38BDF8,100:0EA5E9&text=Tailwind%20CSS&fontAlign=50&fontSize=30&fontColor=000000"/>
+<img width="460" src="https://capsule-render.vercel.app/api?type=rect&height=96&color=0:0A0A0A,100:38BDF8&text=Tailwind%20CSS&fontAlign=50&fontSize=28&fontColor=38BDF8"/>
 
-<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:8B5CF6,100:4C1D95&text=Bootstrap&fontAlign=50&fontSize=32&fontColor=FFFFFF"/>
+<img width="460" src="https://capsule-render.vercel.app/api?type=rect&height=96&color=0:0A0A0A,100:8B5CF6&text=Bootstrap&fontAlign=50&fontSize=30&fontColor=8B5CF6"/>
 
-<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:00FFE0,100:00796B&text=MySQL&fontAlign=50&fontSize=34&fontColor=000000"/>
+<img width="460" src="https://capsule-render.vercel.app/api?type=rect&height=96&color=0:0A0A0A,100:00FFE0&text=MySQL&fontAlign=50&fontSize=32&fontColor=00FFE0"/>
 
-<img width="420" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:4DB6FF,100:0D47A1&text=PostgreSQL&fontAlign=50&fontSize=28&fontColor=FFFFFF"/>
+<img width="460" src="https://capsule-render.vercel.app/api?type=rect&height=96&color=0:0A0A0A,100:4DB6FF&text=PostgreSQL&fontAlign=50&fontSize=26&fontColor=4DB6FF"/>
 
 </div>
 
