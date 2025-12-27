@@ -82,9 +82,8 @@
 
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=36&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=ACCESS+GRANTED;WELCOME+HASSAN;FULL+STACK+DEVELOPER;SYSTEM+ONLINE" />
-</h1>
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" height="280"/>
+
 
 
 </div>
