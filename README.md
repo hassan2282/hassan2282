@@ -71,6 +71,13 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+  <div align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="200"/>
+
+</div>
+
 </div>
 
 
