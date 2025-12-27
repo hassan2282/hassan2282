@@ -10,6 +10,7 @@
   <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=500&color=00FFE0&center=true&vCenter=true&width=600&lines=Laravel+%E2%9A%A1+React+%E2%9A%A1+Tailwind;API+Driven+Architecture;Clean+Code+%7C+Scalable+Systems"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00FF41,100:003300"/>
 
 </div>
 
@@ -20,6 +21,7 @@
 > 🧠 **"Code is not just syntax — it's a weapon."**  
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00FF41,100:003300"/>
 
 <h3 align="center">⚡ Full-Stack Developer | Iran / Tehran ⚡</h3>
 
@@ -53,6 +55,7 @@
 </div>
 
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00FF41,100:003300"/>
 
 
 <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" height="6"/>
@@ -68,6 +71,7 @@
 <img src="https://img.shields.io/badge/BUILDING-FUTURE-7CFF00?style=for-the-badge"/>
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00FF41,100:003300"/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
