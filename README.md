@@ -71,10 +71,9 @@
 <img src="https://img.shields.io/badge/BUILDING-FUTURE-7CFF00?style=for-the-badge"/>
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00FF41,100:003300"/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 
   <div align="center">
 
