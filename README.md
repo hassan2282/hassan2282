@@ -82,6 +82,11 @@
 
 </div>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=36&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=ACCESS+GRANTED;WELCOME+HASSAN;FULL+STACK+DEVELOPER;SYSTEM+ONLINE" />
+</h1>
+
+
 </div>
 
 
