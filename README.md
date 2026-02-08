@@ -32,25 +32,13 @@
 
 <div align="center">
 
-<img width="460" src="https://capsule-render.vercel.app/api?type=rect&height=96&color=0:0A0A0A,100:00FFE0&text=PHP&fontAlign=50&fontSize=34&fontColor=00FFE0"/>
-
-<img width="460" src="https://capsule-render.vercel.app/api?type=rect&height=96&color=0:0A0A0A,100:F7DF1E&text=JavaScript&fontAlign=50&fontSize=30&fontColor=F7DF1E"/>
-
-<img width="460" src="https://capsule-render.vercel.app/api?type=rect&height=96&color=0:0A0A0A,100:FF6B00&text=HTML5&fontAlign=50&fontSize=34&fontColor=FF6B00"/>
-
-<img width="460" src="https://capsule-render.vercel.app/api?type=rect&height=96&color=0:0A0A0A,100:00BFFF&text=CSS3&fontAlign=50&fontSize=34&fontColor=00BFFF"/>
-
-<img width="460" src="https://capsule-render.vercel.app/api?type=rect&height=96&color=0:0A0A0A,100:00FFE0&text=React.js&fontAlign=50&fontSize=32&fontColor=00FFE0"/>
-
-<img width="460" src="https://capsule-render.vercel.app/api?type=rect&height=96&color=0:0A0A0A,100:FF0033&text=Laravel&fontAlign=50&fontSize=32&fontColor=FF0033"/>
-
-<img width="460" src="https://capsule-render.vercel.app/api?type=rect&height=96&color=0:0A0A0A,100:38BDF8&text=Tailwind%20CSS&fontAlign=50&fontSize=28&fontColor=38BDF8"/>
-
-<img width="460" src="https://capsule-render.vercel.app/api?type=rect&height=96&color=0:0A0A0A,100:8B5CF6&text=Bootstrap&fontAlign=50&fontSize=30&fontColor=8B5CF6"/>
-
-<img width="460" src="https://capsule-render.vercel.app/api?type=rect&height=96&color=0:0A0A0A,100:00FFE0&text=MySQL&fontAlign=50&fontSize=32&fontColor=00FFE0"/>
-
-<img width="460" src="https://capsule-render.vercel.app/api?type=rect&height=96&color=0:0A0A0A,100:4DB6FF&text=PostgreSQL&fontAlign=50&fontSize=26&fontColor=4DB6FF"/>
+<img src="https://img.shields.io/badge/PHP-●-777?style=for-the-badge&labelColor=777&color=777"/>
+<img src="https://img.shields.io/badge/Laravel-●-FF2D20?style=for-the-badge&labelColor=FF2D20"/>
+<img src="https://img.shields.io/badge/React-●-61DAFB?style=for-the-badge&labelColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-●-F7DF1E?style=for-the-badge&labelColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Tailwind-●-38BDF8?style=for-the-badge&labelColor=38BDF8"/>
+<img src="https://img.shields.io/badge/MySQL-●-4479A1?style=for-the-badge&labelColor=4479A1"/>
+<img src="https://img.shields.io/badge/PostgreSQL-●-4169E1?style=for-the-badge&labelColor=4169E1"/>
 
 </div>
 
