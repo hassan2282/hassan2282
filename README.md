@@ -10,15 +10,15 @@
 
 > 🧠 **"Code is not just syntax — it's a weapon."**  
 
-</div>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00FF41,100:003300"/>
-
 <h3 align="center">⚡ Full-Stack Developer | Iran / Tehran ⚡</h3>
 
-
-
-
 ## 🧠 Programming Languages
+</div>
+
+
+
+
+
 
 <div align="center">
 
