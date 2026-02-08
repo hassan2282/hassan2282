@@ -32,25 +32,16 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php&theme=dark" width="48"/>
-<img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48"/>
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/>
-<img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/>
-<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48"/>
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/>
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48"/>
+<img src="https://img.shields.io/badge/PHP-●-777?style=for-the-badge&labelColor=777&color=777"/>
+<img src="https://img.shields.io/badge/Laravel-●-FF2D20?style=for-the-badge&labelColor=FF2D20"/>
+<img src="https://img.shields.io/badge/React-●-61DAFB?style=for-the-badge&labelColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-●-F7DF1E?style=for-the-badge&labelColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Tailwind-●-38BDF8?style=for-the-badge&labelColor=38BDF8"/>
+<img src="https://img.shields.io/badge/MySQL-●-4479A1?style=for-the-badge&labelColor=4479A1"/>
+<img src="https://img.shields.io/badge/PostgreSQL-●-4169E1?style=for-the-badge&labelColor=4169E1"/>
 
 </div>
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00FF41,100:003300"/>
-
-
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" height="6"/>
-
-<img src="https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif" width="280"/>
-
-</div>
 
 <div align="center">
 
