@@ -8,7 +8,7 @@
 
 <h1>
 
-> 🧠 **"Code is not just syntax — it's a weapon."**  
+> 🧠 **"Code is not just syntax —> it's a weapon."**  
 
 <h3 align="center">⚡ Full-Stack Developer | Iran / Tehran ⚡</h3>
 
